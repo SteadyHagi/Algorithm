@@ -7,6 +7,7 @@ import java.util.StringTokenizer;
 
 public class B1251 {
 	/**
+	 * 20180712
 	 * 단어나누기
 	 * 브루트포스
 	 * 그냥 포문으로 단어를 삼등분하는 구분점을 나누어 
